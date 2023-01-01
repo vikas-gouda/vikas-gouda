@@ -29,8 +29,7 @@ Here are some ideas to get you started:
 
 
 ---
-
-![](https://leetcard.vikas-gouda/vikas-gouda?ext=heatmap)
+![](https://leetcard.jacoblin.cool/vikasgouda4?ext=heatmap)
 
 
 
