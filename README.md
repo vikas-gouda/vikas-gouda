@@ -27,8 +27,6 @@ Here are some ideas to get you started:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=vikas-gouda&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=vikas-gouda&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-
----
 ![](https://leetcard.jacoblin.cool/vikasgouda4?ext=heatmap)
 
 
