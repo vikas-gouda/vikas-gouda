@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 ---
 
-![](https://leetcard.jacoblin.cool/vikas-gouda?ext=heatmap)
+![](https://leetcard.vikas-gouda/vikas-gouda?ext=heatmap)
 
 
 
