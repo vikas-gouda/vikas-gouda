@@ -20,11 +20,10 @@ Here are some ideas to get you started:
 ## 🌐 Socials:
 <p align="left">
 <a href="https://twitter.com/vikasgouda_4" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vikasgouda_4" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/vikas-gouda" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vikas-gouda" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/vikas-gouda-8aa089225/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vikas-gouda-8aa089225" height="30" width="40" /></a>
 <a href="https://instagram.com/vikkkas4/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vikkkas4" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/orion4" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="orion4" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/vikasgouda4" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vikasgouda4" height="30" width="40" /></a>
-<a href="https://discord.gg/DsHGSEwJ8d" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="DsHGSEwJ8d" height="30" width="40" /></a>
 </p>
 
 # 💻 Tech Stack:
