@@ -7,7 +7,7 @@
 **vikas-gouda/vikas-gouda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+<p>
 - 🔭 I’m currently working on ...
 
 - 👯 I’m looking to collaborate on ...
@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Javascript and python
 - 💬 Ask me about C++
 - 📫 How to reach me: vikasgouda4@gmail.com
-
+</p>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://twitter.com/vikasgouda_4" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vikasgouda_4" height="30" width="40" /></a>
