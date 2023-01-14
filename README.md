@@ -1,6 +1,7 @@
+<!-- ![orion](https://user-images.githubusercontent.com/97686895/212467868-29f61f1c-fb58-47a6-b77b-ae4149fa75ac.gif) -->
 
 
-<p align="center"> <img src="https://user-images.githubusercontent.com/97686895/212462041-31e8aff6-c4ff-48bc-b8ff-661d332fa790.gif" alt="orion" height=400px width=1000px /> </p>
+<p align="center"> <img src="https://user-images.githubusercontent.com/97686895/212467868-29f61f1c-fb58-47a6-b77b-ae4149fa75ac.gif" alt="orion" height=400px width=1000px /> </p>
 
 <h1 align="center"> Hi <img src="https://media.tenor.com/nebZyl8oN7IAAAAj/wave-hello.gif" alt="vikas-gouda" width="30" height="30" />, I'm Vikas Gouda <img src="https://media.tenor.com/lNtmoshuUI8AAAAi/bahroo-hacker.gif" alt="vikas-gouda" width="30" height="30" /> </h1>
  
@@ -44,8 +45,8 @@ Here are some ideas to get you started:
 <h3 align="center">Github Stats:</h3>
 <p align="center">
  
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=vikas-gouda&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="vikas-gouda"/>
- <br><br>
+<!-- <img align="center" src="https://github-readme-stats.vercel.app/api?username=vikas-gouda&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="vikas-gouda"/>
+ <br><br> -->
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vikas-gouda&theme=dark&hide_border=false" alt="vikas-gouda" />
 
  
