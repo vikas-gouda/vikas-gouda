@@ -1,5 +1,9 @@
-### Hi there 👋
-[![](https://visitcount.itsvg.in/api?id=vikas-gouda&icon=3&color=12)](https://visitcount.itsvg.in)
+
+
+<p align="center"> <img src="https://user-images.githubusercontent.com/97686895/212462041-31e8aff6-c4ff-48bc-b8ff-661d332fa790.gif" alt="orion" height=400px width=1000px /> </p>
+
+<h1 align="center"> Hi <img src="https://media.tenor.com/nebZyl8oN7IAAAAj/wave-hello.gif" alt="vikas-gouda" width="30" height="30" />, I'm Vikas Gouda <img src="https://media.tenor.com/lNtmoshuUI8AAAAi/bahroo-hacker.gif" alt="vikas-gouda" width="30" height="30" /> </h1>
+ 
 <!--
 **vikas-gouda/vikas-gouda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -18,8 +22,8 @@ Here are some ideas to get you started:
 - 💬 Ask me about C++
 - 📫 How to reach me: vikasgouda4@gmail.com
 
-## 🌐 Socials:
-<p align="left">
+<h3 align="center">Connect with me:</h3>
+<p align="center">
 <a href="https://twitter.com/vikasgouda_4" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vikasgouda_4" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/vikas-gouda-8aa089225/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vikas-gouda-8aa089225" height="30" width="40" /></a>
 <a href="https://instagram.com/vikkkas4/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vikkkas4" height="30" width="40" /></a>
@@ -27,14 +31,28 @@ Here are some ideas to get you started:
 <a href="https://www.leetcode.com/vikasgouda4" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vikasgouda4" height="30" width="40" /></a>
 </p>
 
-# 💻 Tech Stack:
- <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a><a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="python" width="40" height="40"/> </a>
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=vikas-gouda&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=vikas-gouda&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=vikas-gouda&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<h3 align="center">Tech Stack:</h3>
+ <p align="center">
+ <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
+ <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
+ <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
+ <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
+ <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="python" width="40" height="40"/> </a>
+ </p>
+ 
+ 
+<h3 align="center">Github Stats:</h3>
+<p align="center">
+ 
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=vikas-gouda&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="vikas-gouda"/>
+ <br><br>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vikas-gouda&theme=dark&hide_border=false" alt="vikas-gouda" />
 
-![](https://leetcard.jacoblin.cool/vikasgouda4?ext=heatmap)
+ 
+<h2 align="center">Leetcode Info: <h2>
+ <p align="center">
+  <img  align=top flex-grow=1 src="https://leetcard.jacoblin.cool/vikasgouda4?theme=dark&font=Nunito&ext=heatmap" />  
+</p>
 
 
 
