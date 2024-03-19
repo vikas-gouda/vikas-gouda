@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🌱 I’m currently learning Javascript and python
+- 🌱 I’m currently learning GO
 - 💬 Ask me about C++
 - 📫 How to reach me: vikasgouda4@gmail.com
 </p>
