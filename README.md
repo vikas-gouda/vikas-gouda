@@ -30,13 +30,14 @@ Here are some ideas to get you started:
 <a href="https://www.leetcode.com/vikasgouda4" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vikasgouda4" height="30" width="40" /></a>
 </p>
 
-<h3 align="center">Tech Stack:</h3>
+<h3 align="center">Tech that Drives me:</h3>
  <p align="center">
  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
- <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
- <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="python" width="40" height="40"/> </a>
+ <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
+ <a href="https://go.dev/solutions/use-cases/" target="_blank" rel="noreferrer"> <img src="https://github.com/vikas-gouda/vikas-gouda/assets/97686895/1d470e77-701e-424e-a59c-e07be07b4553" alt="python" width="40" height="40"/> </a>
+ <a href="https://hub.docker.com/u/vikasgouda" target="_blank" rel="noreferrer"> <img src="https://github.com/vikas-gouda/vikas-gouda/assets/97686895/bd53cf4a-118f-4899-a25d-103ddf134ea6" alt="linux" width="40" height="40"/> </a>
  </p>
  
  
@@ -52,6 +53,5 @@ Here are some ideas to get you started:
  <p align="center">
   <img  align=top flex-grow=1 src="https://leetcard.jacoblin.cool/vikasgouda4?theme=dark&font=Nunito&ext=heatmap" />  
 </p>
-
 
 
