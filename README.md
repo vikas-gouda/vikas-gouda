@@ -25,9 +25,6 @@ Here are some ideas to get you started:
 <p align="center">
 <a href="https://twitter.com/vikasgouda_4" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vikasgouda_4" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/vikas-gouda-8aa089225/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vikas-gouda-8aa089225" height="30" width="40" /></a>
-<a href="https://instagram.com/vikkkas4/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vikkkas4" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/orion4" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/97686895/212468097-095eb3d3-1fdb-4362-a282-ac2736a7a1c3.png" alt="orion4" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/vikasgouda4" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vikasgouda4" height="30" width="40" /></a>
 </p>
 
 <h3 align="center">Tech that Drives me:</h3>
